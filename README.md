@@ -1,6 +1,3 @@
-# Portfolio_Optimizer
-This is a Streamlit app built with Python and a .yaml file that contains over 1000 different assets and respective ticker in yfinance. It allows for in depth analysis and portfolio construction using various optimization methods. The focus is spotting clusters and using clusters ti 
-
 # Advanced Cluster Portfolio Optimizer
 
 A sophisticated financial portfolio optimization tool that leverages machine learning clustering algorithms to identify asset relationships and construct optimized portfolios. Built with Python, Streamlit, and advanced quantitative finance libraries.
