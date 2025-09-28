@@ -12,8 +12,7 @@ from visualizations import PortfolioVisualizer
 
 # Page configuration
 st.set_page_config(
-    page_title="Advanced Cluster Portfolio Optimizer",
-    page_icon="📈",
+    page_title="Cluster Portfolio Optimizer",
     layout="wide",
     initial_sidebar_state="expanded"
 )
