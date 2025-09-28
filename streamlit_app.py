@@ -67,7 +67,7 @@ data_manager = load_data_manager()
 visualizer = load_visualizer()
 
 # Main title
-st.markdown('<h1 class="main-header">🎯 Advanced Cluster Portfolio Optimizer</h1>',
+st.markdown('<h1 class="main-header">Cluster Portfolio Optimizer</h1>',
            unsafe_allow_html=True)
 
 # Show cvxpy status
@@ -103,9 +103,9 @@ with st.sidebar:
 
 # Main content tabs
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "🎯 Asset Selection", "🔍 Clustering Analysis",
-    "💼 Portfolio Optimization", "📊 Analytics Dashboard",
-    "🎲 Monte Carlo & Risk"
+    "Asset Selection", "Clustering Analysis",
+    "Portfolio Optimization", "Analytics Dashboard",
+    "Monte Carlo & Risk"
 ])
 
 with tab1:
