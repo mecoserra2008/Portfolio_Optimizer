@@ -178,22 +178,11 @@ Data is automatically cached in `data_cache/` directory. Cache files include:
 - Memory usage approximately 100MB per 100 assets with 5 years of data
 - Clustering algorithms may become slow with >1000 assets
 
-## Development
-
-### Code Quality
-- Type hints throughout codebase
-- Comprehensive error handling
-- Modular design for easy extension
-
 ### Testing
 - Unit tests in `test_*.py` files
 - Integration tests for optimization pipeline
 - Performance benchmarks for clustering algorithms
 
-### Extension Points
-- Custom clustering algorithms in `ClusteringEngine`
-- Additional optimization methods in `PortfolioOptimizer`
-- New visualization types in `PortfolioVisualizer`
 
 ## Dependencies
 
